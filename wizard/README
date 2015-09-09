@@ -1,0 +1,25 @@
+OnionMail Wizard Ver. 1.8.1
+	(C) 2014-2015 by OnionMail Project & mes3hacklab
+
+License: GPL-3 http://www.gnu.org/licenses/gpl.txt
+
+This wizard will create and configure your OnionMail accounts.
+
+The root access is NOT required.
+Click on the wizard icon.
+
+This wizard do:
+* Select an OnionMail server by directory: 
+  http://onionmail.info/directory.html
+* Mail address into the Tor network (OnionMail).
+* VMAT address (to use your OnionMail in Internet).
+* New OpenPGP key (up to 16384 bits).
+* Configure claws-mail.
+* Enable GPG core plugin.
+
+Use this wizard on:
+* TAILS
+* Parrot OS (anon surf).
+* Debian (some software required).
+
+
